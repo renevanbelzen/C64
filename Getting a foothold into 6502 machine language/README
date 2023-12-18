@@ -1,7 +1,5 @@
-Programs that go with the articles I wrote on my blog between December 13 
-and 16, 2023.
+Programs that go with the articles I wrote on my blog between December 13 and 16, 2023.
 
 see: https://renevanbelzen.micro.blog/2023/12/13/getting-a-foothold.html
 
-It's a source file for 6502 assembly code, and a Commodore Basic version 2
-file to test the usr() function once the machine code is loaded.
+It's a source file for 6502 assembly code, and a Commodore Basic version 2 file to test the usr() function once the machine code is loaded.
